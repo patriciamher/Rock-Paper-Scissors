@@ -1,0 +1,48 @@
+html {
+    background-color: #ee82ee42;
+}
+h1 {
+    font-size: 4rem;
+    text-shadow: 15px 15px 15px #00000078;
+    font-family: 'Tilt Prism', cursive;
+}
+body {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.scoreboard {
+    border: 15px solid #ffff3263;
+    width: 50%;
+    margin-left: 371px;
+    border-radius: 11px;
+    background-color: white;
+}
+table {
+    margin-left: 290px;
+    font-size: 1.5rem;
+}
+td {
+    font-size: 5rem;
+    border: 1px solid;
+    padding: 10px;
+}
+th {
+    padding: 20px;
+    font-weight: lighter;
+}
+.fa-solid {
+    font-size: 5rem;
+    padding: 16px;
+}
+button {
+    border-radius: 72px;
+    background-color: white;
+    cursor: pointer;
+}
+#status {
+    font-size: 2rem;
+    margin: 40px;
+}
+h2 {
+    font-size: 3rem;
+}
